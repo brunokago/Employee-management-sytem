@@ -1,3 +1,10 @@
+<img width="901" height="802" alt="image" src="https://github.com/user-attachments/assets/e8b37a6b-38f3-44f3-a196-45daa89b9d23" />
+
+<img width="1885" height="609" alt="image" src="https://github.com/user-attachments/assets/a95288b6-b03e-4f1c-b6a5-ea420febaa83" />
+
+<img width="1904" height="810" alt="image" src="https://github.com/user-attachments/assets/a533fddb-73dc-48b5-9fd0-7620131a2e70" />
+
+
 # Employee-management-sytem
 Employee management sytem
 API Endpoints
@@ -26,7 +33,8 @@ Backend Setup
 
 1.Navigate to the backend directory:
 
-2.Install dependencies and run:
+2.Install dependencies:mvn clean install and run: mvn spring-boot:run
+
 
 3.The backend will start on http://localhost:8080
 
@@ -36,9 +44,9 @@ Frontend Setup
 
 1.Navigate to the frontend directory:
 
-2.Install dependencies:
+2.Install dependencies: npm install --force
 
-3.Start the development server:
+3.Start the development server:pnpm run dev
 
 4.The frontend will start on http://localhost:5173
 
